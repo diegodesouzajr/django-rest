@@ -1,7 +1,7 @@
 # django-rest
 API com aplicação JWT e rest
 
-Desenvolvimento de uma aplicação em Django em backend.
+Desenvolvimento de uma aplicação em Django para backend.
 
 Adicionado método para cadastro de ususário. Realiza o login do usuário via token JWT.
 
